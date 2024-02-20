@@ -952,9 +952,7 @@ position: absolute;
 bottom: 14%;
 left: 1%;
 }
-body {
-    background-color: #ddd;
-  }
+
   .social-buttons {
     border-radius: 5px;
     display: -webkit-box;
